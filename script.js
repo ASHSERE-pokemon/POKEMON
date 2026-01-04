@@ -1,0 +1,1 @@
+function submitForm(event) {  event.preventDefault();  alert("Message sent! PokéBiz will contact you soon ⚡");}
